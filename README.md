@@ -32,7 +32,7 @@ _weird things_
 # 🧑‍💻 Find me
 
 - [Instagram](https://www.instagram.com/max.afr)
-- [LinkedIn](link)
+- [LinkedIn](https://www.linkedin.com/in/max-alejandro-flores-rodríguez-b04072250)
 - [Email](max.flores.ar@gmail.com)
 
 <!--- Me gusta el pan --->
