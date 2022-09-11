@@ -35,7 +35,7 @@ _weird things_
 
 | *GitHub Stats* | *Programming Languages* |
 |---|---|
-| ![IonCna's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NousCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ![IonCna's GitHub stats](https://github-readme-stats.vercel.app/api?username=IonCna&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IonCna&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 # 🧑‍💻 Find me
 
