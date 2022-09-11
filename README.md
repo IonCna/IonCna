@@ -2,7 +2,11 @@
 
 # 📕 About me
 
-Javascript | Fullstack Developer, I have created projects using JavaScript. My goal is to grow as a professional, reach a high seniority level and take a role in software architecture to develop great applications. Team player, communication, problem-solving, and detail-oriented are skills that allow me to do an excellent job
+| **Javascript - Web Developer** |
+| :---: | 
+
+I like to develop any type of project and learn new techonologies, I'm developing some projects and experiments. 
+My goal is to be able to work making new software to grow professionally
 
 # 🧑‍💻 My Projects
 _personal things that i've done_
