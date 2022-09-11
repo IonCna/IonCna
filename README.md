@@ -20,7 +20,7 @@ Javascript | Fullstack Developer, I have created projects using JavaScript. My g
 __
 
 ## 🧪 My lab
-_frase_
+_weird things_
 
 - [3N1: Don't ask.](https://github.com/IonCna/3N1)
 
