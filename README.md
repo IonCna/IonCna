@@ -1,6 +1,6 @@
 # ![banner](https://i.pinimg.com/originals/86/f6/c9/86f6c984946298238d80f7771cf7445d.png)
 
-# =============================================
+# =========================================
 
 # English
 
@@ -14,7 +14,7 @@ Javascript | Fullstack Developer, I have created projects using JavaScript. My g
 
 Javascript | Fullstack Developer, I have created projects using JavaScript. My goal is to grow as a professional, reach a high seniority level and take a role in software architecture to develop great applications. Team player, communication, problem-solving, and detail-oriented are skills that allow me to do an excellent job.
 
-# =============================================
+# =========================================
 
 ## 🧑‍💻 My Projects
 __
