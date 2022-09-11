@@ -22,7 +22,7 @@ __
 ## 🧪 My lab
 _frase_
 
-- [3N1: Do'nt ask.]([link](https://github.com/IonCna/3N1))
+- [3N1: Don't ask.](https://github.com/IonCna/3N1)
 
 ## ⚙️ Tech
 Programing Lang. | Frontent | Backend |
