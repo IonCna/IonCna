@@ -8,7 +8,7 @@
 I like to develop any type of project and learn new techonologies, I'm developing some projects and experiments. 
 My goal is to be able to work making new software to grow professionally
 
-# 🧑‍💻 My Projects
+# 💻 My Projects
 _personal things that i've done_
 
 - [Chipa-bot: A discord bot with user interface.](https://github.com/TaCoDevs/chipa-bot)
