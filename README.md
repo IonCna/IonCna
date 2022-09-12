@@ -38,5 +38,6 @@ _weird things_
 - [Instagram](https://www.instagram.com/max.afr)
 - [LinkedIn](https://www.linkedin.com/in/max-alejandro-flores-rodríguez-b04072250)
 - [Email](max.flores.ar@gmail.com)
+- [Indeed](https://my.indeed.com/resume?hl=es&co=MX&from=gnav-resume--myind)
 
 <!--- Me gusta el pan --->
