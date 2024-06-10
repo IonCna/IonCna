@@ -1,5 +1,3 @@
-# ![banner](https://www.pngall.com/wp-content/uploads/5/Banner-PNG-HD-Image.png)
-
 # 📕 About me
 
 | **Web Developer** |
